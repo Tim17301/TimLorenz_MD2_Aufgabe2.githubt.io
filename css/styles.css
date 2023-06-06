@@ -1,0 +1,246 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: #F5EFE7;
+}
+
+.logo{
+    width: 10%;
+}
+
+.nav-item{
+    margin: 0 1.5rem 0 1.5rem;
+    width: 6rem;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.nav-link:hover{
+    font-weight: bold;
+}
+
+.Hero-container{
+    text-align: center;
+    background-color: #F5EFE7;
+}
+
+.sugarmami{
+    padding-top: 2%;
+    text-align: center;
+    position: relative;
+}
+
+.canimg{
+    text-align: left;
+}
+
+.imgcan{
+    width: 60%;
+}
+
+.kaufen-button{
+    position: absolute;
+    bottom: 12rem;
+    left: 50%;
+    transform: translateX(-50%);
+
+    border-radius: 10px;
+    width: 15rem;
+    height: 3rem;
+
+    background-color: #F5EFE7;
+
+    font-weight: bold;
+
+}
+
+.kaufen-button:hover{
+    border: 0;
+    background-color: black;
+    color: white;
+}
+
+
+.container-auswahl{
+    margin: 5% 12.5% 0 12.5%;
+    text-align: center;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.card{
+    
+    height: 100%;
+}
+
+.nutrition{
+    display: block;
+    margin: 0 auto;
+}
+
+.Orange-row{
+    background-color: #F5EFE7;
+}
+
+.footer{
+    background-color: #F5EFE7;
+    height: 250px;
+    margin-top: 5%;
+}
+
+.footer-links{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-links:hover{
+    text-decoration: underline;
+}
+
+.link-liste{
+    list-style-type: none;
+    text-align: left;
+}
+
+.suchen{
+    padding-top: 40px;
+}
+.footerrow{
+    padding-top: 40px;
+}
+
+.copyrow{
+    padding-top: 40px;
+}
+
+.form-control{
+    background-color: #F5EFE7;
+    border-color: black;
+}
+
+.suchen-btn{
+    background-color: #F5EFE7;
+}
+
+.produktListe-hero{
+    background-color: #F5EFE7;
+}
+
+.produktListe-row{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.produkt-card{
+    padding-bottom: 10px;
+}
+
+.produkt-card:hover{
+    background-color: #F5EFE7;
+}
+
+.Produkt-Container{
+    margin-top: 10rem;
+}
+
+.produkt-text{
+    padding-top: 40px;
+}
+
+.Nutrion-ProduktSeite{
+    width: 60%;
+    display: block;
+}
+
+.mediaicons{
+    margin-right: 25px;
+}
+
+.Produkt-btn{
+    width: 210px;
+}
+
+.Bewertungen-container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.Profil-Bilder{
+    display: inline-block;
+}
+
+.Bewertungs-text{
+    display: inline-block;
+    margin-left: 30px;
+    width: 60%;
+    text-align: center;
+}
+
+.divider-container{
+    position: relative;
+    text-align: center;
+}
+
+.divider{   
+    height: 30px;
+    width: 80%;
+    
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 2px solid black;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+
+.form-container{
+    margin-top: 150px;
+}
+
+
+.Kontakt-options{
+    margin-top: 100px;
+    background-color: #F5EFE7;
+    height: 300px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 50px;
+}
+
+.fakeDaten{
+    padding-top: 20px;
+}
+
+.daten-icons{
+    margin-top: 50px;
+}
+
+.Impressum-Container{
+    margin-top: 100px;
+}
+
+
+
+
+  
+
+
+
+
+
+
